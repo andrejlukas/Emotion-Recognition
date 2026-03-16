@@ -9,7 +9,7 @@ Slike se prije ulaza u modele transformiraju i po potrebi skaliraju na 224x224 r
 
 Projekt automatski provodi podjelu originalnog skupa za učenje na **trening (80%)** i **validacijski (20%)** dio uz zadržavanje stratifikacije klasa.
 
-## 🧠 Modeli
+## Modeli
 
 Trenirani su i uspoređeni sljedeći arhitektonski modeli:
 - **ResNet-18** 
